@@ -2,4 +2,4 @@
 
 SQL, C#, .NET
 
-Bug checking negative balance in money transfer ().
+Bug checking negative balance in money transfer.
