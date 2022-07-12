@@ -2,6 +2,8 @@
 
 -Technology: SQL, C#, .NET, Winform
 
--Describe: Bug checking negative balance in money transfer.
+-Describe: the project has the functions of managing staff, bank accounts, depositing, withdrawing, transferring money and statements for each bank branch.
+
+-Bug: checking negative balance in money transfer.
 
 Visual Studio 2019, SQL Server 2019
