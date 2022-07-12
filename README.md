@@ -1,4 +1,4 @@
-## NganHang-CSDLPhanTan
+## BankManagement - Distributed Database
 
 * Technology: SQL, C#, .NET, Winform
 
